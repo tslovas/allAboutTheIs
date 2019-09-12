@@ -1,0 +1,11 @@
+C:\Temp\allAboutTheIs\bin\Debug\netcoreapp2.2\allAboutTheIs.deps.json
+C:\Temp\allAboutTheIs\bin\Debug\netcoreapp2.2\allAboutTheIs.runtimeconfig.json
+C:\Temp\allAboutTheIs\bin\Debug\netcoreapp2.2\allAboutTheIs.runtimeconfig.dev.json
+C:\Temp\allAboutTheIs\bin\Debug\netcoreapp2.2\allAboutTheIs.dll
+C:\Temp\allAboutTheIs\bin\Debug\netcoreapp2.2\allAboutTheIs.pdb
+C:\Temp\allAboutTheIs\obj\Debug\netcoreapp2.2\allAboutTheIs.csprojAssemblyReference.cache
+C:\Temp\allAboutTheIs\obj\Debug\netcoreapp2.2\allAboutTheIs.csproj.CoreCompileInputs.cache
+C:\Temp\allAboutTheIs\obj\Debug\netcoreapp2.2\allAboutTheIs.AssemblyInfoInputs.cache
+C:\Temp\allAboutTheIs\obj\Debug\netcoreapp2.2\allAboutTheIs.AssemblyInfo.cs
+C:\Temp\allAboutTheIs\obj\Debug\netcoreapp2.2\allAboutTheIs.dll
+C:\Temp\allAboutTheIs\obj\Debug\netcoreapp2.2\allAboutTheIs.pdb
